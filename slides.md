@@ -136,3 +136,19 @@ If you wanted to run a GPT-3 inference. How much RAM would your infrastructure r
 
 ![image](https://github.com/SE-Materials/transformers-text-classification-for-nlp-using-bert-2478096/assets/8214876/41d1f84f-c168-4be5-b4c5-fb8bbdaef9df)
 
+
+# Self attention
+
+![image](https://github.com/SE-Materials/transformers-text-classification-for-nlp-using-bert-2478096/assets/8214876/4a6393e2-1977-417b-a803-c2c97479d415)
+
+![image](https://github.com/SE-Materials/transformers-text-classification-for-nlp-using-bert-2478096/assets/8214876/7478b29c-8d70-45c7-94bf-88ccb2d077dd)
+
+![image](https://github.com/SE-Materials/transformers-text-classification-for-nlp-using-bert-2478096/assets/8214876/a4716508-8ef4-4a14-9540-d57a3d0639de)
+
+![image](https://github.com/SE-Materials/transformers-text-classification-for-nlp-using-bert-2478096/assets/8214876/c103ff13-5c29-4597-ae27-99917ea73a51)
+
+![image](https://github.com/SE-Materials/transformers-text-classification-for-nlp-using-bert-2478096/assets/8214876/ef80d4e1-88eb-4cca-b79c-cd05e454b184)
+
+
+
+
